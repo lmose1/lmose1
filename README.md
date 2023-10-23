@@ -1,7 +1,7 @@
 👋 Hi, I’m @lmose1
 👀 I’m interested in ai and python.
 🌱 I’m currently learning python and yolov5.
-💞️ I’m looking to collaborate on Automatic identification of grass species and automatic control aspects.
+💞️ I’m looking to collaborate on Weeding robots.
 📫  to reach me by 1979limose@gmail.com.
 
 <!---
